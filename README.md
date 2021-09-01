@@ -1,2 +1,2 @@
 # DSA-Experiments
-This contains a list of Experiments on Data Structures and Algorithms in C
+#This Repo is made for reference only. Copying codes is not encouraged, you can either understand the logic or make necessary changes to the present one.
